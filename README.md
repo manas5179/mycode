@@ -1,4 +1,4 @@
-# mycode (Project Title)
+# mycode Go Project
 wanting to learn how to version control projects with git 
 
 ## Getting Started
